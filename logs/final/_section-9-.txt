@@ -1,0 +1,2 @@
+AxiosError: 400 - "{\"detail\":\"Failed to download image from https://raw.githubusercontent.com/akramguediri/The-Psychology-of-Money-Timeless-Lessons-on-Wealth-Greed-and-Happiness-By-Morgan-Housel-pd-/main/images/2025-05-06T11%3A22%3A19.517-04%3A00chapter015_image2.png. Error: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/akramguediri/The-Psychology-of-Money-Timeless-Lessons-on-Wealth-Greed-and-Happiness-By-Morgan-Housel-pd-/main/images/2025-05-06T11%3A22%3A19.517-04%3A00chapter015_image2.png\"}"
+
